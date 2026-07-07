@@ -19,6 +19,7 @@ Authorization: Bearer <user_token>
 ### Структура JSON:
 
 Полный пример валидного ответа (Mock) доступен в отдельном файле:
+* [stores_list_success.json](my-api-mocks/stores_list_success.json)
 
 ### Корневые поля 
 | Поле | Тип | Обязательное | Возможные значения | Описание | 
