@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "data": {
+        "stores": [
+            {
+                "id": "store_metro_001",
+                "name": "METRO",
+                "logo_url": "https://cdn.green-parsley.shop/logos/metro_blue.png",
+                "delivery": {
+                    "type": "nearest",
+                    "text": "Ближайшая доставка сегодня 21:00-23:00"
+                },
+                "action_url": "https://metro-cc.ru/app-redirect"
+            },
+            {
+                "id": "store_vkusvill_112",
+                "name": "ВкусВилл",
+                "logo_url": "https://cdn.green-parsley.shop/logos/vkusvill_green.png",
+                "delivery": {
+                    "type": "fast",
+                    "text": "Быстрая доставка от 20 до 60 минут"
+                },
+                "action_url": "https://vkusvill.ru/app-redirect"
+            }
+        ]
+    },
+    "meta": {
+        "total_count": 4,
+        "offset": 0,
+        "limit": 10,
+        "has_more": false
+    }
+}
